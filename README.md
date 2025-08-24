@@ -8,11 +8,12 @@
 ---
 
 ## 🚀 About Me
-Software Engineer with **2+ years of experience** developing robust backend systems and cloud solutions. Skilled in **Java, Spring Boot, Python**, and passionate about **scalable architectures** and **automation**.
+Software Engineer with **2+ years of experience** in developing scalable **backend systems** and **cloud solutions**.  
+Passionate about **AI**, **Microservices**, and **Cloud Automation**.
 
-- 🔭 Currently working at **GlobalLogic Inc.** on enterprise solutions  
-- 🌱 Exploring **Microservices**, **Kafka**, and **Cloud Automation**  
-- 💬 Ask me about **Java**, **Spring Boot**, **FastAPI**, **AWS**  
+- 🔭 Currently working at **GlobalLogic Inc.**  
+- 🌱 Exploring **Generative AI**, **Agentic AI**, and **LangChain**  
+- 💬 Ask me about **Java**, **Spring Boot**, **Python**, **AWS**, **FastAPI**  
 - 📫 Reach me at: **rajeshwar.singh.developer@gmail.com**  
 
 ---
@@ -31,11 +32,10 @@ Software Engineer with **2+ years of experience** developing robust backend syst
 ## 📌 Featured Projects
 | Project | Description |
 |---------|-------------|
-| [Voice-Based Email System](https://github.com/rajeshwar-singh/VoiceBasedEmailSystem) | Voice-enabled email system using Python |
-| [Employee Management System](https://github.com/rajeshwar-singh/Employee-Management-System) | Java Swing + MySQL-based employee records |
-| [Pharmacy Management System](https://github.com/rajeshwar-singh/Pharmacy-Management-System) | C# and SQL Server-based pharmacy inventory system |
-| [Drum Kit](https://github.com/rajeshwar-singh/Drum-Kit) | Fun JavaScript-based interactive music kit |
-| [Tic Tac Toe Game](https://github.com/rajeshwar-singh/TicTaeToe-Game) | Console-based C# game |
+| [Langchain Prompt](https://github.com/rajeshwar-singh/langchain-prompt) | AI-powered app using LangChain and Qwen 0.6B for text generation |
+| [Voice-Based Email System](https://github.com/rajeshwar-singh/VoiceBasedEmailSystem) | Voice-enabled email application built with Python |
+| [Employee Management System](https://github.com/rajeshwar-singh/Employee-Management-System) | Java Swing & MySQL-based employee records management |
+| [Pharmacy Management System](https://github.com/rajeshwar-singh/Pharmacy-Management-System) | C# and SQL Server-based pharmacy inventory management |
 
 👉 **[View All Projects](https://github.com/rajeshwar-singh?tab=repositories)**  
 
@@ -61,4 +61,3 @@ Software Engineer with **2+ years of experience** developing robust backend syst
 ---
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
-
