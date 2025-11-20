@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-Software Engineer with **2.2+ years of experience** in developing scalable **backend systems** and **cloud solutions**.  
+Software Engineer with **2.5+ years of experience** in developing scalable **backend systems** and **cloud solutions**.  
 Passionate about **AI**, **Microservices**, and **Cloud Automation**.
 
 - 🔭 Currently working at **GlobalLogic Inc.**  
