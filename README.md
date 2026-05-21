@@ -8,11 +8,11 @@
 ---
 
 ## 🚀 About Me
-Software Engineer with **2.5+ years of experience** in developing scalable **backend systems** and **cloud solutions**.  
+Software Engineer with **3+ years of experience** in developing scalable **backend systems** and **cloud solutions**.  
 Passionate about **AI**, **Microservices**, and **Cloud Automation**.
 
 - 🔭 Currently working at **GlobalLogic Inc.**  
-- 🌱 Exploring **Generative AI**, **Agentic AI**, and **LangChain**  
+- 🌱 Exploring **RAG**, **Generative AI**, **Agentic AI**, and **LangChain**  
 - 💬 Ask me about **Java**, **Spring Boot**, **Python**, **AWS**, **FastAPI**  
 - 📫 Reach me at: **rajeshwar.singh.developer@gmail.com**  
 
